@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="352" lt="352" ts="1342575031673" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17150"/>
+<httpSample t="311" lt="306" ts="1342575032031" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17138"/>
+<httpSample t="299" lt="296" ts="1342575032344" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17174"/>
+<httpSample t="296" lt="294" ts="1342575032644" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17102"/>
+<httpSample t="298" lt="296" ts="1342575032940" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17114"/>
+<httpSample t="301" lt="298" ts="1342575033239" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17114"/>
+<httpSample t="325" lt="319" ts="1342575033540" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17114"/>
+<httpSample t="298" lt="298" ts="1342575033866" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17084"/>
+<httpSample t="303" lt="301" ts="1342575034164" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17126"/>
+<httpSample t="313" lt="312" ts="1342575034469" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Google Site 1-1" dt="text" by="17102"/>
+
+</testResults>
