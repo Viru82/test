@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="413" lt="145" ts="1342743782167" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="92489">
+  <httpSample t="145" lt="145" ts="1342743782167" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="265" lt="212" ts="1342743782315" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26952"/>
+</httpSample>
+<httpSample t="389" lt="182" ts="1342743782266" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="92505">
+  <httpSample t="182" lt="182" ts="1342743782266" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="207" lt="198" ts="1342743782448" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26965"/>
+</httpSample>
+<httpSample t="431" lt="156" ts="1342743782365" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="92513">
+  <httpSample t="156" lt="156" ts="1342743782365" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="275" lt="229" ts="1342743782521" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="26965"/>
+</httpSample>
+<httpSample t="334" lt="152" ts="1342743782465" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="92549">
+  <httpSample t="152" lt="152" ts="1342743782465" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="182" lt="167" ts="1342743782617" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="26980"/>
+</httpSample>
+<httpSample t="328" lt="146" ts="1342743782566" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="92561">
+  <httpSample t="146" lt="146" ts="1342743782566" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="181" lt="175" ts="1342743782713" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="26979"/>
+</httpSample>
+<httpSample t="375" lt="145" ts="1342743782582" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="92585">
+  <httpSample t="145" lt="145" ts="1342743782582" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="230" lt="218" ts="1342743782727" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26991"/>
+</httpSample>
+<httpSample t="324" lt="143" ts="1342743782656" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="92489">
+  <httpSample t="143" lt="143" ts="1342743782656" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="181" lt="171" ts="1342743782799" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26958"/>
+</httpSample>
+<httpSample t="335" lt="150" ts="1342743782666" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="92477">
+  <httpSample t="150" lt="150" ts="1342743782666" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="185" lt="173" ts="1342743782816" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="26948"/>
+</httpSample>
+<httpSample t="348" lt="162" ts="1342743782766" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="92477">
+  <httpSample t="162" lt="162" ts="1342743782766" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="186" lt="173" ts="1342743782928" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="26953"/>
+</httpSample>
+<httpSample t="334" lt="148" ts="1342743782802" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="92513">
+  <httpSample t="148" lt="148" ts="1342743782802" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="186" lt="172" ts="1342743782950" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="26964"/>
+</httpSample>
+<httpSample t="338" lt="149" ts="1342743782894" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="92489">
+  <httpSample t="149" lt="149" ts="1342743782894" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="189" lt="182" ts="1342743783043" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="26952"/>
+</httpSample>
+<httpSample t="332" lt="140" ts="1342743782967" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="92477">
+  <httpSample t="140" lt="140" ts="1342743782967" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="191" lt="178" ts="1342743783108" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="26951"/>
+</httpSample>
+<httpSample t="532" lt="139" ts="1342743782797" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="92477">
+  <httpSample t="139" lt="139" ts="1342743782797" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="393" lt="173" ts="1342743782936" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="26950"/>
+</httpSample>
+<httpSample t="343" lt="140" ts="1342743783002" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="92477">
+  <httpSample t="140" lt="140" ts="1342743783002" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="203" lt="178" ts="1342743783142" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="26950"/>
+</httpSample>
+<httpSample t="541" lt="151" ts="1342743782866" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="92549">
+  <httpSample t="151" lt="151" ts="1342743782866" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="390" lt="171" ts="1342743783017" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="26982"/>
+</httpSample>
+<httpSample t="349" lt="141" ts="1342743783068" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="92649">
+  <httpSample t="141" lt="141" ts="1342743783068" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="207" lt="165" ts="1342743783210" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="27017"/>
+</httpSample>
+<httpSample t="352" lt="142" ts="1342743783115" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="92489">
+  <httpSample t="142" lt="142" ts="1342743783115" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="210" lt="171" ts="1342743783257" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="26952"/>
+</httpSample>
+<httpSample t="370" lt="140" ts="1342743783168" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="92489">
+  <httpSample t="140" lt="140" ts="1342743783168" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="230" lt="178" ts="1342743783308" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="26956"/>
+</httpSample>
+<httpSample t="330" lt="143" ts="1342743783268" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="92537">
+  <httpSample t="143" lt="143" ts="1342743783268" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="187" lt="174" ts="1342743783411" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="26970"/>
+</httpSample>
+<httpSample t="352" lt="141" ts="1342743783299" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="92513">
+  <httpSample t="142" lt="141" ts="1342743783299" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="210" lt="198" ts="1342743783441" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="26965"/>
+</httpSample>
+<httpSample t="349" lt="158" ts="1342743783370" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="92477">
+  <httpSample t="158" lt="158" ts="1342743783370" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="190" lt="183" ts="1342743783529" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="26949"/>
+</httpSample>
+<httpSample t="329" lt="149" ts="1342743783407" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="92477">
+  <httpSample t="149" lt="149" ts="1342743783407" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="180" lt="169" ts="1342743783556" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="26950"/>
+</httpSample>
+<httpSample t="345" lt="159" ts="1342743783418" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="92501">
+  <httpSample t="159" lt="159" ts="1342743783418" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="185" lt="177" ts="1342743783578" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="26954"/>
+</httpSample>
+<httpSample t="328" lt="138" ts="1342743783471" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="92489">
+  <httpSample t="138" lt="138" ts="1342743783471" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="190" lt="175" ts="1342743783609" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="26955"/>
+</httpSample>
+<httpSample t="330" lt="142" ts="1342743783538" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="92501">
+  <httpSample t="142" lt="142" ts="1342743783538" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="188" lt="172" ts="1342743783680" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="26961"/>
+</httpSample>
+<httpSample t="346" lt="141" ts="1342743783598" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="92461">
+  <httpSample t="141" lt="141" ts="1342743783598" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="204" lt="175" ts="1342743783740" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="26947"/>
+</httpSample>
+<httpSample t="372" lt="147" ts="1342743783574" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="92489">
+  <httpSample t="147" lt="147" ts="1342743783574" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="225" lt="181" ts="1342743783721" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="26953"/>
+</httpSample>
+<httpSample t="346" lt="141" ts="1342743783673" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="92517">
+  <httpSample t="141" lt="141" ts="1342743783673" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="205" lt="169" ts="1342743783814" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="26970"/>
+</httpSample>
+<httpSample t="338" lt="147" ts="1342743783720" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="92513">
+  <httpSample t="147" lt="147" ts="1342743783720" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="191" lt="179" ts="1342743783867" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="26959"/>
+</httpSample>
+<httpSample t="321" lt="140" ts="1342743783773" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="92465">
+  <httpSample t="140" lt="140" ts="1342743783773" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="181" lt="173" ts="1342743783913" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="26947"/>
+</httpSample>
+<httpSample t="321" lt="139" ts="1342743783800" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="92513">
+  <httpSample t="139" lt="139" ts="1342743783800" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="181" lt="169" ts="1342743783940" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="26963"/>
+</httpSample>
+<httpSample t="321" lt="144" ts="1342743783947" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="92513">
+  <httpSample t="144" lt="144" ts="1342743783947" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="177" lt="166" ts="1342743784091" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="26969"/>
+</httpSample>
+<httpSample t="335" lt="158" ts="1342743783974" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="92465">
+  <httpSample t="158" lt="158" ts="1342743783974" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="177" lt="169" ts="1342743784132" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="26950"/>
+</httpSample>
+<httpSample t="467" lt="141" ts="1342743783873" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="92465">
+  <httpSample t="141" lt="141" ts="1342743783873" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="326" lt="183" ts="1342743784014" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="26947"/>
+</httpSample>
+<httpSample t="323" lt="143" ts="1342743784019" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="92501">
+  <httpSample t="143" lt="143" ts="1342743784019" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="180" lt="168" ts="1342743784162" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="26964"/>
+</httpSample>
+<httpSample t="334" lt="140" ts="1342743784095" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="92513">
+  <httpSample t="140" lt="140" ts="1342743784095" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="194" lt="175" ts="1342743784235" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="26959"/>
+</httpSample>
+<httpSample t="448" lt="141" ts="1342743784074" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="92489">
+  <httpSample t="141" lt="141" ts="1342743784074" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="307" lt="169" ts="1342743784215" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="26954"/>
+</httpSample>
+<httpSample t="319" lt="139" ts="1342743784310" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="92537">
+  <httpSample t="139" lt="139" ts="1342743784310" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="180" lt="173" ts="1342743784449" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="26976"/>
+</httpSample>
+<httpSample t="342" lt="141" ts="1342743784340" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="92489">
+  <httpSample t="141" lt="141" ts="1342743784340" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="201" lt="193" ts="1342743784481" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="26956"/>
+</httpSample>
+<httpSample t="318" lt="138" ts="1342743784523" s="true" lb="Home" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="92477">
+  <httpSample t="138" lt="138" ts="1342743784523" s="true" lb="http://www.google.com/" rc="302" rm="Found" tn="" dt="text" by="2060"/>
+  <httpSample t="180" lt="173" ts="1342743784661" s="true" lb="http://www.google.com.au/" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="26953"/>
+</httpSample>
+
+</testResults>
